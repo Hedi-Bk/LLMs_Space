@@ -34,6 +34,8 @@ Fine-tuning of the LLaMA 2–7B model using the **QLoRA** method:
 | **Steps / sec**   | **0.153**       |
 | **Total FLOPs**   | **8.75 × 10¹⁵** |
 
+---
+
 ### **2. Fine-Tuning Phi-3-Mini with QLoRA & Unsloth (500 Samples)**
 
 **Project Link** : [![View on GitHub](https://img.shields.io/badge/QLoRA-Fine--Tuning-green?logo=github)](https://github.com/Hedi-Bk/Fine-Tuning-Phi-3-with-QLoRA-Unsloth)
